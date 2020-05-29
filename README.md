@@ -29,5 +29,5 @@ At the end of the week, your team will submit a Final Report that describes the 
 Please upload the report to Github and submit a link to Bootcampspot.
 
 ## Project Outcomes
-
+A detailed project report can be found in a world file "ETL Project Report" in the project repository.
 
